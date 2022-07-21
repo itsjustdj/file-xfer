@@ -3,7 +3,7 @@
 
 DESTDIR=[server-directory-path]
 
-echo -e "Which music folder do you want to transfer?"
+echo -e "Which folder or file do you want to transfer?"
 read directory
 
 #The quotes around the directory variable below are to allow for spaces in directory names.
