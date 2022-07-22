@@ -21,6 +21,9 @@ When it asks for which folder or file you want to transfer, just type the path. 
 ### Notes
 You can delete the echo statement "Your music has been..." It's just there for kicks.
 
+<b>Important!</b>
+If you're wondering how this script connects to the server without any u/n or p/w commands, it's because I already setup a connection to my server using ssh keys. This is the most secure way to do it, because you don't want password stuff floating around in your scripts.
+
 If you are wondering about why I wrot ethis little script, you can read about it at: https://dj-codes.com/bash-script-for-quick-and-easy-file-transfer
 
 
